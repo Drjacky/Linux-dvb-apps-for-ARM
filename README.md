@@ -1,4 +1,4 @@
-# Linux-dvb-apps-for-ARM
+# Linux dvb apps for ARM
 
 It's assumed you installed gcc arm; But if you didn't:
 ```javascript
